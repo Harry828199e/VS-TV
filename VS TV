@@ -3,3 +3,5 @@
 http://103.107.79.87:8080/CH8110HD06/video.m3u8
 #EXTINF:-1 group-title="SVS TEAM" tvg-logo="https://i.postimg.cc/7Pg2zLqk/20240317-232944-0000.png",Bangla Vision
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
+EXTINF:-1 group-title="SVS TEAM" tvg-logo="https://i.postimg.cc/7Pg2zLqk/20240317-232944-0000.png",BTV LIVE
+https://www.btvlive.gov.bd/streams/3e96aac8-67ec-4a30-9f18-a2c3f1bc987a/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_1_playlist.m3u8
