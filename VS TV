@@ -5,4 +5,5 @@ http://103.107.79.87:8080/CH8110HD06/video.m3u8
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="SVS TEAM" tvg-logo="https://i.postimg.cc/qqf3bg2c/1713962430806.jpg",Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/0_1/index.m3u8
-#EXTINF:-1 group-title="SVS TEAM" tvg-logo="https://i.postimg.cc/YCcmtvPJ/download.jpg",Star Jalsha
+#EXTINF:-1 group-title="SVS TEAM" tvg-logo="https://i.postimg.cc/6qpphvQ1/Enterr-10-Bangla.webp", Entertainment Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
